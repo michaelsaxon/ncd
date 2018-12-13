@@ -1,6 +1,8 @@
 # ncd
 Nasal Cognate Distinctiveness family of features generation and preparation code
 
+Based on Ming Tu, Junbo Zhang implementation of Kaldi Goodness of Pronunciation https://github.com/tbright17/kaldi-dnn-ali-gop
+
 Very, very work in progress at this stage with regards to code cleaning, labelling, and commenting. Comments in most files need to be changed to reflect updated copyright.
 
 Upcoming changes:
